@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Hello world\n");
+	printf("Hello Git\n");
 	printf("new line\n"); 
 	return 0;
 }
