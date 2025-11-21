@@ -30,7 +30,7 @@ int main() {
     Calculator calc;
     cout << "5 + 3 = " << calc.add(5, 3) << endl;
     cout << "10 - 4 = " << calc.subtract(10, 4) << endl;
-   
+   cout<<"111"<<endl;
     demonstrateAdvancedMath();
     return 0;
 }
