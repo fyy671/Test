@@ -1,0 +1,10 @@
+#Background p{
+        color: blue;
+        text-align: center;
+        outline-style: dotted;
+        border-width:thin;
+        margin-top: 800px;
+}
+#upBackground p{
+   background-color: rgb(153, 176, 185);
+}
